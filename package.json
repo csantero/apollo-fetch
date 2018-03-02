@@ -32,7 +32,7 @@
     "graphql": "0.13.1",
     "graphql-tag": "2.8.0",
     "lerna": "2.9.0",
-    "lint-staged": "6.1.1",
+    "lint-staged": "7.0.0",
     "lodash": "4.17.5",
     "mocha": "4.1.0",
     "nyc": "11.4.1",
